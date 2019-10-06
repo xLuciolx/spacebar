@@ -121,7 +121,7 @@
         "files": [
             "config/packages/sensio_framework_extra.yaml"
         ]
-
+    },
     "sebastian/diff": {
         "version": "3.0.2"
     },
